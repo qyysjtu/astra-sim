@@ -1,6 +1,6 @@
 [submodule "extern/network_backend/analytical"]
 	path = extern/network_backend/analytical
-	url = git@github.com:astra-sim/astra-network-analytical.git
+	url = git@github.com:qyysjtu/astra-network-analytical.git
 [submodule "extern/network_backend/garnet/gem5_astra"]
 	path = extern/network_backend/garnet/gem5_astra
 	url = git@github.com:astra-sim/astra-network-garnet.git
